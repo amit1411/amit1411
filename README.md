@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amit1411
+- 👋 Hi, I’m Amit
 - 👀 I’m interested in everything python/data extraction
 - 🌱 I’m currently learning how to be a better human being
 
