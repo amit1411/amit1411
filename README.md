@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amit
+- <img src="https://raw.githubusercontent.com/amit1411/amit1411/master/wave.gif" width="30px"> Hi, I’m Amit
 - 👀 I’m interested in everything python/data extraction
 - 🌱 I’m currently learning how to be a better human being
 
